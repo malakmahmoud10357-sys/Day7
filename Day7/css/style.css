@@ -1,0 +1,48 @@
+body {
+    background-color: #e5dada;
+    font-family: Poppins, sans-serif;
+}
+
+.card {
+    background-color: #d2c8b7;
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 3px solid #716262;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 10px #140b0b;
+}
+
+.card img {
+    width: 180px;
+    height: 180px;
+    border-radius: 10000%;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.job {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+button {
+    background-color: #928c8c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #463333;
+}
